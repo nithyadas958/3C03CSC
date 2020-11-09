@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Marklist</title>
+</head>
+<body>
+ <h2 style="color:black;">Marklist</h2>
+<table border="1" cellpadding="10"cellspacing="5" width="100%">
+<tr style="background-color:lightblue;">
+<th colspan="6">NITHYADAS(NA19CSTR20)</th>
+</tr>
+ <tr style="background-color:lightblue;">
+  <th rowspan="2">Course Title</th>
+  <th colspan="3">Marks Awarded</th>
+  <th rowspan="2">Maximum</th>
+  <th rowspan="2">Result</th>
+</tr>
+<tr style="background-color:lightblue;">
+ <th>IA</th>
+ <th>ESE</th>
+ <th>Total Marks</th>
+</tr>
+<tr>
+ <td>Statistics</td>
+ <td style="text-align:center">8</td>
+ <td style="text-align:center">27</td>
+ <td style="text-align:center">35</td>
+ <td style="text-align:center">60</td>
+ <td style="text-align:center">P</td>
+</tr>
+<tr>
+ <td>Mathematics</td>
+ <td style="text-align:center">9</td>
+ <td style="text-align:center">7</td>
+ <td style="text-align:center">16</td>
+ <td style="text-align:center">50</td>
+ <td style="text-align:center">F</td>
+</tr>
+<tr>
+ <td>CS</td>
+ <td style="text-align:center">4</td>
+ <td style="text-align:center">19</td>
+ <td style="text-align:center">23</td>
+ <td style="text-align:center">40</td>
+ <td style="text-align:center">P</td>
+</tr>
+<tr>
+ <td colspan="3">Total Mark</td>
+ 
+
+ <td style="text-align:center" >74</td>
+ <td style="text-align:center" >150</td>
+ <td style="text-align:center" >F</td>
+</tr>
+ 
+</body>
+</html>

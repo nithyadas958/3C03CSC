@@ -10,4 +10,8 @@ body{
   padding: 10px;
   color:white;
   font-weight: bold;
-}  
+}
+
+#mainimage{
+  width:100%;
+}
